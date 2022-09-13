@@ -1,0 +1,28 @@
+running sdist
+running egg_info
+writing requirements to dev_aberto_joaovmm.egg-info\requires.txt
+writing dev_aberto_joaovmm.egg-info\PKG-INFO
+writing top-level names to dev_aberto_joaovmm.egg-info\top_level.txt
+writing dependency_links to dev_aberto_joaovmm.egg-info\dependency_links.txt
+reading manifest file 'dev_aberto_joaovmm.egg-info\SOURCES.txt'
+writing manifest file 'dev_aberto_joaovmm.egg-info\SOURCES.txt'
+running check
+creating dev_aberto_joaovmm-0.1
+creating dev_aberto_joaovmm-0.1\dev_aberto
+creating dev_aberto_joaovmm-0.1\dev_aberto_joaovmm.egg-info
+creating dev_aberto_joaovmm-0.1\scripts
+copying files to dev_aberto_joaovmm-0.1...
+copying LICENSE -> dev_aberto_joaovmm-0.1
+copying setup.py -> dev_aberto_joaovmm-0.1
+copying dev_aberto\__init__.py -> dev_aberto_joaovmm-0.1\dev_aberto
+copying dev_aberto\dev_aberto.py -> dev_aberto_joaovmm-0.1\dev_aberto
+copying dev_aberto_joaovmm.egg-info\PKG-INFO -> dev_aberto_joaovmm-0.1\dev_aberto_joaovmm.egg-info
+copying dev_aberto_joaovmm.egg-info\SOURCES.txt -> dev_aberto_joaovmm-0.1\dev_aberto_joaovmm.egg-info
+copying dev_aberto_joaovmm.egg-info\dependency_links.txt -> dev_aberto_joaovmm-0.1\dev_aberto_joaovmm.egg-info
+copying dev_aberto_joaovmm.egg-info\requires.txt -> dev_aberto_joaovmm-0.1\dev_aberto_joaovmm.egg-info
+copying dev_aberto_joaovmm.egg-info\top_level.txt -> dev_aberto_joaovmm-0.1\dev_aberto_joaovmm.egg-info
+copying scripts\hello.py -> dev_aberto_joaovmm-0.1\scripts
+Writing dev_aberto_joaovmm-0.1\setup.cfg
+creating dist
+Creating tar archive
+removing 'dev_aberto_joaovmm-0.1' (and everything under it)
